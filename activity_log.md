@@ -5,3 +5,4 @@
 - [2026-04-13T15:46:53Z] refactor: clean up unused imports
 - [2026-04-13T15:04:55Z] refactor: clean up unused imports
 - [2026-04-13T20:45:04Z] fix: resolve edge case in input validation
+- [2026-04-13T13:30:52Z] fix: handle null pointer exception
